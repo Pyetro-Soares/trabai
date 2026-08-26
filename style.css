@@ -69,7 +69,6 @@ main{
 }
 #art2{
     background-color: #02020223;
-    border-radius: 0px 0px 20px 20px;
 }
 #art2>h2{
     background-color: #00000031;
@@ -78,6 +77,20 @@ main{
 #art2>ul{
     padding: 10px;
     list-style-type: none;
+}
+#art3{
+    background-color: #00000031;
+}
+#art3>h2{
+    background-color: #00000031;
+    padding: 10px;
+}
+#art3>ul{
+    padding: 10px;
+    list-style-type: none;
+}
+li>a{
+    color: #000000;
 }
 .hidden{
     filter: blur(10px);
