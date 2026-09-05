@@ -92,6 +92,16 @@ main{
 li>a{
     color: #000000;
 }
+#artnov{
+    background-color: #02020223;
+}
+#artnov>h2{
+    background-color: #00000031;
+    padding: 10px;
+}
+#artnov>p{
+    padding: 10px;
+}
 .hidden{
     filter: blur(10px);
     transition: all 2s;
